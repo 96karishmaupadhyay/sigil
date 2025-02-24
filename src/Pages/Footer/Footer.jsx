@@ -43,7 +43,7 @@ const Footer = () => {
         <p>&copy; 2025 SigilKey Consulting Solutions LLP. All Rights Reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
    <div>
    <a
-  href="https://wa.me/9910275909" 
+  href="https://wa.me/919910275909" 
   target="_blank"
   rel="noopener noreferrer"
   className="whatsapp-button"
