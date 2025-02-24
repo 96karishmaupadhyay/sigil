@@ -1,0 +1,8 @@
+.service-container{
+    background: linear-gradient(45deg,rgb(88, 20, 224),rgb(53, 10, 138));
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding: 40px;
+    justify-content: center;
+}

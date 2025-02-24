@@ -1,0 +1,11 @@
+
+.contact-btn{
+    height: 40px;
+    width: 120px;
+    background: none;
+    border: 1px solid rgb(88, 20, 224);
+    border-radius: 20px;
+    box-shadow: 0 0 5px rgb(88, 20, 224);
+    color: rgb(88, 20, 224);
+}
+
