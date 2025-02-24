@@ -24,7 +24,7 @@ const Footer = () => {
             </ul>
         </div>
 
-        <div class="footer-section contact">
+        <div class="footer-section contact" id='visit'>
             <h3>Contact Us</h3>
             <p><strong>Office Address:</strong> A3/304, Eastern Heights, Nyay Khand 3, Indirapuram, Ghaziabad, PIN: 201014</p>
             <p><strong>Phone:</strong> <a href="tel:+919910275909">+91 9910275909</a></p>
